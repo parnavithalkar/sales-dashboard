@@ -95,7 +95,6 @@ http://localhost:3000/dashboard
 🌐 Live Demo
 
 👉 Deployed on Vercel
-(Add your live link here)
 
 https://sales-dashboard.vercel.app/dashboard
 
